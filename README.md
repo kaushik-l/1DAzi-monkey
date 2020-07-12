@@ -1,2 +1,2 @@
-# firefly-monkey
-all things related to monkey firefly experiments
+# 1DAzi-monkey
+Code to analyse data from 1D translation/rotation protocols
